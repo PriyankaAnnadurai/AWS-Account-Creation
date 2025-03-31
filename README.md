@@ -23,7 +23,7 @@ This experiment involves creating an AWS account, configuring security settings 
  ### Step 7:
  Review and Create IAM User</br>
 
-### REG NUMBER:212222230113
+### REG NUMBER: 212222230113
 ### NAME: PRIYANKA A
 
 ## OUTPUT
